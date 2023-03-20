@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Bose Speaker",
+      "description": "Une description de produit",
+      "price": "13,99 $",
+      "category": "Electroniques",
+      "id": 4
+    },
+    {
+      "name": "fade",
+      "description": "mon produit...",
+      "price": "12.99$",
+      "category": "fdsa",
+      "id": 6
+    }
+  ]
+}
